@@ -1,13 +1,3 @@
-
-<style>
-    .personalityImage{
-        position: relative;
-        transform: translateY(-1em);
-    }
-    a{
-     
-    }
-</style>
 <a class ="WelcomeSVG" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=40&duration=1000&pause=1000&color=000000&random=false&width=435&height=75&lines=Welcome!;%C2%A1Bienvenido!;%E3%81%8A%E3%81%84!;Willkommen!;Selamat+datang!;Bienvenue!;Ho%C5%9F+geldin!;Benvenuto!;%D0%94%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C!" alt="Typing SVG" /></a>
 
 # I'm Joshua Joseph
