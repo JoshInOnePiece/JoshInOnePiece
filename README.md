@@ -22,27 +22,26 @@
 [UCFPHY]: https://sciences.ucf.edu/physics/
 
                     
-## :shipit: Current Coursework :shipit:    
-:shipit: Computer Science 2
+## :seedling: Current Coursework :seedling:    
+:computer: Computer Science 2
  
-:shipit: Linear Circuits I
+:hammer: Linear Circuits I
  
-:shipit: Computer Organization
+:file_folder: Computer Organization
 
-:shipit: Statistics for Engineers
+:chart_with_upwards_trend: Statistics for Engineers
 
-## :shipit: Top Programming Languages :shipit:
-:shipit: C<br>
-:shipit: Java<br>
-:shipit: Verilog<br>
-:shipit: Julia<br>
-:shipit: Python
+## :globe_with_meridians: Top Programming Languages :globe_with_meridians:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Verilog](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-
-
-_Favorite programming language: Rust :crab:._  
-_Fun facts: My side interests are :paintbrush: graphics design, :man_dancing:
-breakdancing, and :skateboard: skateboarding._
+ 
+_Fun facts: My side interests include playing basketball, watching/reading One Piece, and helping out my local community!
 
 
 <p align="center">
