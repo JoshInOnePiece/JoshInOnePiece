@@ -26,13 +26,13 @@ I am an aspiring computer engineer interested in creating a positive impact thro
 
                     
 ## :seedling: Current Coursework :seedling:    
-:computer: Computer Architecture
+:computer: Hardware Descriptive Languages
  
-:hammer: Linear Circuits 2
+:zap: Electronics 1
  
-:file_folder: CAD for VLSI
+:floppy_disk: Embedded Systems
 
-:performing_arts: Fundamentals of Technical Presentations
+:pager: Junior Design
 
 ## :globe_with_meridians: Technical Skills :globe_with_meridians:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=verilog&logoColor=white)
