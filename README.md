@@ -8,12 +8,11 @@ I am an aspiring computer engineer interested in creating a positive impact thro
 
 <img class = "personalityImage" align="right" alt="Sabertooth Tiger running" width="350" src="img/sabertoothwithCherryBlossom.gif" />
 
-:school_satchel: Junior studying Computer Engineering @ [**University of Central Florida**][university]<br>
+:school_satchel: Senior studying Computer Engineering @ [**University of Central Florida**][university]<br>
 :notebook_with_decorative_cover: Undergraduate Researcher @ [**UCF DRACO Lab**][DRACO]<br>
-:email: President @ [**UCF ACM**][UCFACM]<br>
-:zap: Former Digital Design Engineering Intern @ [**Northrop Grumman**][Northrop]<br>
+:zap: Former ASIC Design Engineering Intern @ [**Northrop Grumman**][Northrop]<br>
 :office: Fomer Technology Transfer Intern @ [**Sandia National Laboratories**][Sandia]<br>
-:shipit: Building Quantum Circuits using ITensors.jl @ [**UCF's Physics Department**][UCFPHY]<br>
+:email: Former President President of [**UCF ACM**][UCFACM]<br>
 :trident: Passionate about learning and creating an impact in my community
 
 [UCFACM]: https://linktr.ee/acmucf
