@@ -25,13 +25,13 @@ I am an aspiring computer engineer interested in creating a positive impact thro
 
                     
 ## :seedling: Current Coursework :seedling:    
-:computer: Senior Design 1
+:computer: Senior Design 2
  
-:zap: Algorithms for Machine Learning
+:zap: Intro to Deep Learning
  
-:floppy_disk: CAD for VLSI
+:floppy_disk: Full-Custom VLSI
 
-:pager: Computer Communication Networks
+:pager: Personal Health and Wellness
 
 ## :globe_with_meridians: Technical Skills :globe_with_meridians:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=verilog&logoColor=white)
@@ -47,7 +47,7 @@ More fun facts: My side interests include playing basketball :basketball:, watch
 
 
 <p align="center">
-    <b>Looking for a hardware design engineering intern?
+    <b>
         <a href="https://www.linkedin.com/in/joshuavjoseph">Let's connect and talk!</a>
     </b>
 </p>
