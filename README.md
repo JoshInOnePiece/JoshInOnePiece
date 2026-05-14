@@ -8,8 +8,8 @@ I am an aspiring computer engineer interested in creating a positive impact thro
 
 <img class = "personalityImage" align="right" alt="Sabertooth Tiger running" width="350" src="img/sabertoothwithCherryBlossom.gif" />
 
-:school_satchel: Senior studying Computer Engineering @ [**University of Central Florida**][university]<br>
-:notebook_with_decorative_cover: Undergraduate Researcher @ [**UCF DRACO Lab**][DRACO]<br>
+:school_satchel: Incoming Computer Engineering Masters Student@ [**University of Central Florida**][university]<br>
+:notebook_with_decorative_cover: Graduate Researcher @ [**UCF DRACO Lab**][DRACO]<br>
 :zap: Former ASIC Design Engineering Intern @ [**Northrop Grumman**][Northrop]<br>
 :office: Fomer Technology Transfer Intern @ [**Sandia National Laboratories**][Sandia]<br>
 :email: Former President President of [**UCF ACM**][UCFACM]<br>
@@ -25,13 +25,7 @@ I am an aspiring computer engineer interested in creating a positive impact thro
 
                     
 ## :seedling: Current Coursework :seedling:    
-:computer: Senior Design 2
- 
-:zap: Intro to Deep Learning
- 
-:floppy_disk: Full-Custom VLSI
-
-:pager: Personal Health and Wellness
+:zap: Currently enjoying summer after graduation!
 
 ## :globe_with_meridians: Technical Skills :globe_with_meridians:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=verilog&logoColor=white)
@@ -47,7 +41,7 @@ More fun facts: My side interests include playing basketball :basketball:, watch
 
 
 <p align="center">
-    <b>Looking for a hardware design engineering intern?
+    <b>
         <a href="https://www.linkedin.com/in/joshuavjoseph">Let's connect and talk!</a>
     </b>
 </p>
