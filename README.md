@@ -25,7 +25,17 @@ I am an aspiring computer engineer interested in creating a positive impact thro
 
                     
 ## :seedling: Current Coursework :seedling:    
+<<<<<<< HEAD
 :zap: Currently enjoying summer after graduation!
+=======
+:computer: Senior Design 2
+ 
+:zap: Intro to Deep Learning
+ 
+:floppy_disk: Full-Custom VLSI
+
+:pager: Personal Health and Wellness
+>>>>>>> f739743327629247ec3cae39e66087b056125f02
 
 ## :globe_with_meridians: Technical Skills :globe_with_meridians:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=verilog&logoColor=white)
