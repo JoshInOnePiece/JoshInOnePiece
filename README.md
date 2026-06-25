@@ -8,8 +8,7 @@ I am an aspiring computer engineer interested in creating a positive impact thro
 
 <img class = "personalityImage" align="right" alt="Sabertooth Tiger running" width="350" src="img/sabertoothwithCherryBlossom.gif" />
 
-:school_satchel: Incoming Masters Student @ [**University of Central Florida**][university]<br>
-:notebook_with_decorative_cover: Graduate Researcher @ [**UCF DRACO Lab**][DRACO]<br>
+:school_satchel: Digital Implementation Engineer @ [**Snowcap Compute**][SnowcapCompute]<br>
 :zap: Former ASIC Design Engineering Intern @ [**Northrop Grumman**][Northrop]<br>
 :office: Fomer Technology Transfer Intern @ [**Sandia National Laboratories**][Sandia]<br>
 :email: Former President President of [**UCF ACM**][UCFACM]<br>
@@ -22,6 +21,7 @@ I am an aspiring computer engineer interested in creating a positive impact thro
 [QuantumCircs]: https://github.com/JoshInOnePiece/Quantum-Circuits-with-ITensor.jl
 [UCFPHY]: https://sciences.ucf.edu/physics/
 [Northrop]: https://www.northropgrumman.com/
+[SnowcapCompute]: https://www.snowcapcompute.com
 
                     
 ## :seedling: Current Coursework :seedling:    
