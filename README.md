@@ -23,9 +23,6 @@ I am an aspiring computer engineer interested in creating a positive impact thro
 [Northrop]: https://www.northropgrumman.com/
 [SnowcapCompute]: https://www.snowcapcompute.com
 
-                    
-## :seedling: Current Coursework :seedling:    
-:zap: Currently enjoying summer after graduation!
 
 ## :globe_with_meridians: Technical Skills :globe_with_meridians:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=verilog&logoColor=white)
